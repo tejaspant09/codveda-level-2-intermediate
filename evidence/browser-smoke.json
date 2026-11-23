@@ -1,0 +1,14 @@
+{
+  "date": "2026-11-23T13:18:14.783Z",
+  "origin": "http://127.0.0.1:4175",
+  "api": "mocked for browser smoke check",
+  "checks": [
+    "Search page loads at 360, 768 and 1440 pixels without horizontal overflow",
+    "Search fixture, save, navigation, persisted favorites after reload and removal",
+    "Contact validation rejects empty fields and accepts valid demo values",
+    "Direct About, Contact and Saved URLs work and refresh",
+    "Phone menu opens, navigates and closes"
+  ],
+  "errors": [],
+  "status": "passed"
+}
